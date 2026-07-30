@@ -66,8 +66,8 @@ Correlation is calculated for numerical variables and displayed using a heatmap 
 EDA-Using-R/
 │
 ├── IBM.csv
-├── EDA using R.ipynb
-└── README.md
+├── README.md
+└── R_EDA.ipynb
 ```
 
 ## Learning Outcomes
